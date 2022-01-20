@@ -1,0 +1,61 @@
+*{
+    background-color: lightgoldenrodyellow;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:25%;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.Header{
+    margin-top: 3rem;
+    color: orange;
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 150px;
+}
+#cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.name{
+    background-color: white;
+    font-size: 2rem;
+    margin :1rem;
+}
+.id{
+    background-color: white;
+    color: gray;
+    margin :1rem;
+}
+.status{
+    background-color: white;
+    margin: 1rem;
+}
+.button{
+    background-color: white;
+}
+.gender{
+    background-color: white;
+    font-size: 2rem;
+    margin :1rem;
+}
+.email{
+    background-color: white;
+    font-size: 2rem;
+    margin :1rem;
+}
+
+.card2{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
